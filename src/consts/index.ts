@@ -140,7 +140,7 @@ export const ACCORDION_ITEMS: AccordionItem[] = [
   {
     title: "Lealtad",
     content:
-      "“La verdadera amistad, como la fosforescencia, resplandece mejor cuando todo se ha oscurecido.” (Rabindranath Tagore) “En la prosperidad, nuestros amigos nos conocen; en la adversidad, nosotros conocemos a nuestros amigos” (John Churton Collins)",
+      "“La verdadera amistad, como la fosforescencia, resplandece mejor cuando todo se ha oscurecido.” (Rabindranath Tagore) “En la prosperidad, nuestros amigos nos conocen; en la adversidad, nosotros conocemos a nuestros amigos.” (John Churton Collins)",
   },
   {
     title: "Compromiso",
@@ -319,7 +319,7 @@ export const DESCRIPTIONS = [
   "¿Qué cualidades harían falta para construirla?",
   "¿Puede superar las diferencias o conflictos?",
   "¿Serías capaz de morir por ella?",
-  "¿Cuál es su esencial?",
+  "¿Cuál es su esencia?",
 ];
 
 export interface TestQuestion {
