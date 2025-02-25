@@ -100,7 +100,7 @@ export const MOVIES: IMovie[] = [
     image: "/images/movies/movie1.png",
   },
   {
-    title: "Cadena Perpetuas",
+    title: "Cadena Perpetua",
     year: "1994",
     image: "/images/movies/movie2.png",
   },
@@ -135,22 +135,22 @@ export const ACCORDION_ITEMS: AccordionItem[] = [
   {
     title: "Sinceridad",
     content:
-      "“Pues consistiendo la amistad en hacer, por decirlo así, de varias alma una sola, ¿cómo podrá ser esto, si ni siquiera el alma de cada cual es una y siempre la misma, sino varia, mudable y con muchos pliegues” (Cicerón).",
+      "“Pues consistiendo la amistad en hacer, por decirlo así, de varias alma una sola, ¿cómo podrá ser esto, si ni siquiera el alma de cada cual es una y siempre la misma, sino varia, mudable y con muchos pliegues?.” (Cicerón).",
   },
   {
     title: "Lealtad",
     content:
-      "“La verdadera amistad, como la fosforescencia, resplandece mejor cuando todo se ha oscurecido” (Rabindranath Tagore) “En la prosperidad, nuestros amigos nos conocen; en la adversidad, nosotros conocemos a nuestros amigos” (John Churton Collins)",
+      "“La verdadera amistad, como la fosforescencia, resplandece mejor cuando todo se ha oscurecido.” (Rabindranath Tagore) “En la prosperidad, nuestros amigos nos conocen; en la adversidad, nosotros conocemos a nuestros amigos” (John Churton Collins)",
   },
   {
     title: "Compromiso",
     content:
-      "“Todo el mundo quiere tener un amigo, pero nadie se toma la molestia de convertirse en uno” (Ralph Waldo Emerson)",
+      "“Todo el mundo quiere tener un amigo, pero nadie se toma la molestia de convertirse en uno.” (Ralph Waldo Emerson)",
   },
   {
     title: "Flexibilidad",
     content:
-      "“La amistad se fortalece cuando dejamos de centrarnos en nuestras preferencias y aprendemos a abrazar los gustos del otro” (William Hazlitt)",
+      "“La amistad se fortalece cuando dejamos de centrarnos en nuestras preferencias y aprendemos a abrazar los gustos del otro.” (William Hazlitt)",
   },
   {
     title: "Conexión",
@@ -165,7 +165,7 @@ export const ACCORDION_ITEMS: AccordionItem[] = [
   {
     title: "Moldeable",
     content:
-      "“La vida es en parte lo que nosotros hacemos de ella y en parte lo que hacen de ella los amigos que escogemos” (Tennessee Williams)",
+      "“La vida es en parte lo que nosotros hacemos de ella y en parte lo que hacen de ella los amigos que escogemos.” (Tennessee Williams)",
   },
 ];
 
@@ -285,9 +285,9 @@ export const FRIENDSHIP_IMAGES: IFriendshipImage[] = [
     image: "/images/section2/img07.png",
     element: `<p class="text-m-bold-small lg:text-l-bold-small text-center">
         <span class="text-purple">Una amistad es gratis.</span>
-        <span class="text-black">Comienza dónde termina el interés.</span>
+        <span class="text-black">Comienza donde termina el interés.</span>
       </p>`,
-    text: "Una amistad es gratis. Comienza dónde termina el interés.",
+    text: "Una amistad es gratis. Comienza donde termina el interés.",
     frameWidth: "w-[166.22px] md:w-[266.03px]",
     frameHeight: "h-[220px] md:h-[240px] lg:h-[270px]",
     imgWidth: "w-[145.85px] md:w-[234.03px]",
@@ -341,7 +341,7 @@ export const FRIENDSHIP_TEST: TestQuestion[] = [
   {
     id: 1,
     question:
-      "Me doy cuenta rápido cuando un amigo está triste o preocupado en vez de que me lo tenga que decir....",
+      "Me doy cuenta rápido cuando un amigo está triste o preocupado en vez de que me lo tenga que decir...",
     options: [
       { value: "A", text: "Siempre" },
       { value: "B", text: "Casi siempre" },
@@ -420,7 +420,7 @@ export const FRIENDSHIP_TEST: TestQuestion[] = [
   {
     id: 8,
     question:
-      "Con mis amigos, me siento libre de ser yo mismo(a), sin miedo a ser juzgado(a).",
+      "Con mis amigos, me siento libre de ser yo mismo, sin miedo a ser juzgado.",
     options: [
       { value: "A", text: "Siempre" },
       { value: "B", text: "Casi siempre" },
@@ -464,7 +464,7 @@ export const FRIENDSHIP_TEST: TestQuestion[] = [
   {
     id: 12,
     question:
-      "Si un amigo me decepciona, trato de hablar con él/ella en lugar de cortar la relación.",
+      "Si un amigo me decepciona, trato de hablar con él en lugar de cortar la relación.",
     options: [
       { value: "A", text: "Siempre" },
       { value: "B", text: "Casi siempre" },
@@ -486,7 +486,7 @@ export const FRIENDSHIP_TEST: TestQuestion[] = [
   {
     id: 14,
     question:
-      "Comparto mis preocupaciones con mi amigo/a a la cara en vez de mediante mensajes de texto siempre que puedo.",
+      "Comparto mis preocupaciones con mi amigo a la cara en vez de mediante mensajes de texto siempre que puedo.",
     options: [
       { value: "A", text: "Siempre" },
       { value: "B", text: "Casi siempre" },
